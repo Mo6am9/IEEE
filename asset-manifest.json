@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/IEEE/static/css/main.f870f3c2.css",
+    "main.js": "/IEEE/static/js/main.f6d965f1.js",
+    "static/js/453.a0345f9e.chunk.js": "/IEEE/static/js/453.a0345f9e.chunk.js",
+    "static/media/fa-solid-900.ttf": "/IEEE/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/IEEE/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/IEEE/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/IEEE/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/20241104_205506.jpg": "/IEEE/static/media/20241104_205506.d8493b0719553cae53e1.jpg",
+    "static/media/fa-regular-400.ttf": "/IEEE/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/20241104_205502.jpg": "/IEEE/static/media/20241104_205502.d7caa09f8e12efbac7ca.jpg",
+    "static/media/fa-regular-400.woff2": "/IEEE/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/cropped-logo.png": "/IEEE/static/media/cropped-logo.f6b8294f7b40fe28b8c5.png",
+    "static/media/fa-v4compatibility.ttf": "/IEEE/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/IEEE/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/IEEE/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/IEEE/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/IEEE/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/IEEE/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/IEEE/index.html",
+    "main.f870f3c2.css.map": "/IEEE/static/css/main.f870f3c2.css.map",
+    "main.f6d965f1.js.map": "/IEEE/static/js/main.f6d965f1.js.map",
+    "453.a0345f9e.chunk.js.map": "/IEEE/static/js/453.a0345f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f870f3c2.css",
+    "static/js/main.f6d965f1.js"
+  ]
+}
